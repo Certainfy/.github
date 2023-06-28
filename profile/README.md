@@ -1,8 +1,12 @@
-# Certainfy
+<h1 align="center">
+  Certainfy
+</h1>
 
-![Certainfy Logo](https://example.com/logo.png)
-
-Welcome to Certainfy!
+<p align="center">
+<!-- ![Certainfy Logo](./certainfy-logo-3.png) -->
+   <img width="200" src="./certainfy-logo-3.png" alt="Certainfy Logo"> <br>
+     Welcome to Certainfy!
+</p>
 
 ## About Us
 
