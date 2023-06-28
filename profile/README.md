@@ -1,5 +1,5 @@
 <h1 align="center">
-  Certainfy
+  Certainfy™
 </h1>
 
 <p align="center">
