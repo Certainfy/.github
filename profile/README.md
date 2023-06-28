@@ -5,7 +5,7 @@
 <p align="center">
   <br>
 <!-- ![Certainfy Logo](./certainfy-logo-3.png) -->
-   <img width="200" src="./certainfy-logo-3.png" alt="Certainfy Logo"> <br>
+   <img width="200" src="./profile/certainfy-logo-3.png" alt="Certainfy Logo"> <br>
      Welcome to Certainfy!
 </p>
 
