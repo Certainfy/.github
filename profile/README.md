@@ -4,14 +4,10 @@
 
 Welcome to Certainfy!
 
-## Certainfy Use Case: AI-Enabled Drug and Packaged Goods Classification and Personalized Feedback System
-
-Description:
-In this use case, Certainfy utilizes an AI system to classify drugs and packaged goods based on their labels and ingredients. Users can input information about a specific product, and the AI system provides personalized feedback on potentially harmful ingredients or possible side effects associated with its consumption. Leveraging Python and an existing AI tool, Certainfy ensures accurate classification, empowering users to make informed decisions and prioritize their health and safety when selecting products.
-
 ## About Us
 
-At Certainfy, we are dedicated to developing reliable and innovative software solutions that bring certainty to businesses. We specialize in leveraging AI technologies to create powerful systems that provide personalized feedback and insights to users.
+At Certainfy, we are dedicated to developing reliable and innovative software solutions that bring certainty to businesses. We specialize in leveraging AI technologies to create powerful systems that provide personalized feedback and insights to users. In this use case, Certainfy utilizes an AI system to classify drugs and packaged goods based on their labels and ingredients. Users can input information about a specific product, and the AI system provides personalized feedback on potentially harmful ingredients or possible side effects associated with its consumption. Leveraging Python and an existing AI tool, Certainfy ensures accurate classification, empowering users to make informed decisions and prioritize their health and safety when selecting products.
+
 
 ## Our Projects
 
