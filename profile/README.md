@@ -26,6 +26,36 @@ We take pride in our cutting-edge projects that make a difference in various ind
 
 - **AI-Enabled Drug and Packaged Goods Classifier**: Our flagship project focuses on classifying drugs and packaged goods using advanced AI techniques. It enables users to receive personalized feedback and make informed decisions about the products they consume. In this use case, Certainfy utilizes an AI system to classify drugs and packaged goods based on their labels and ingredients. Users can input information about a specific product, and the AI system provides personalized feedback on potentially harmful ingredients or possible side effects associated with its consumption. Leveraging Python and an existing AI tool, Certainfy ensures accurate classification, empowering users to make informed decisions and prioritize their health and safety when selecting products.
 
+
+<h1 align="center">
+  <br>
+  Sponsorship
+</h1>
+
+If you find our project valuable and would like to support us, you can make a donation using one of the following methods:
+
+<!-- - **Bitcoin (BTC):** ################################### -->
+<p align="center">
+  <br>
+   <b>Donate with Ethereum (ETH):</b> 0xC9Ad5839BEE46EA194F8F9C77E08EDc5067A8A45<br>
+   <img width="200" src="./profile/certainfy-eth-qr-code.png" alt="binance-certainfy-eth-qr-code"> 
+     
+</p>
+
+
+<p align="center">
+  <br>
+   <b>Donate with Binance (Pay ID):</b> 375027987<br>
+   <img width="200" src="./profile/binance-pay-2.png" alt="binance-pay-qr-code">
+     
+</p>
+
+
+Choose the cryptocurrency of your preference, and your contribution will go a long way in supporting the development and maintenance of our project.
+
+Thank you for your generosity and support!
+
+
 <h1 align="center">
   <br>
   How to Contribute
