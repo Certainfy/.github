@@ -46,7 +46,7 @@ If you find our project valuable and would like to support us, you can make a do
 <p align="center">
   <br>
    <b>Donate with Binance (Pay ID):</b> 375027987<br>
-   <img width="200" src="./profile/binance-pay-2.png" alt="binance-pay-qr-code">
+   <img width="200" src="./profile/binance-pay-2.jpg" alt="binance-pay-qr-code">
      
 </p>
 
