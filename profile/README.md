@@ -5,7 +5,7 @@
 <p align="center">
   <br>
 <!-- ![Certainfy Logo](./certainfy-logo-3.png) -->
-   <img width="200" src="./profile/certainfy-logo-3.png" alt="Certainfy Logo"> <br>
+   <img width="200" src="./profile/certainfy-logo-4.png" alt="Certainfy Logo"> <br>
      Welcome to Certainfy!
 </p>
 
@@ -40,8 +40,8 @@ We welcome contributions from the open-source community to enhance our projects.
 
 Stay up-to-date with our latest projects, updates, and announcements by following us on social media:
 
-- Twitter: [@Certainfy](https://twitter.com/Certainfy)
-- LinkedIn: [Certainfy](https://www.linkedin.com/company/certainfy)
+- Twitter: [@Certainfy_TM](https://twitter.com/Certainfy_TM)
+- LinkedIn: [Certainfy™](https://www.linkedin.com/company/certainfy%E2%84%A2)
 
 For inquiries or collaboration opportunities, please reach out to us at [certainfy@outlook.com](mailto:certainfy@outlook.com).
 
