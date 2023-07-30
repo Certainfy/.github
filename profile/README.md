@@ -14,7 +14,7 @@
   About Us
 </h1>
 
-At Certainfy, we are dedicated to developing reliable and innovative software solutions that bring certainty to users and businesses. We specialize in leveraging AI technologies to create powerful systems that provide personalized feedback and insights to users. 
+At Certainfy, we are dedicated to developing reliable and innovative software solutions that bring certainty to users and businesses. We specialize in leveraging AI, Blockchain, and Machine Learning technologies to create powerful systems that provide personalized feedback and insights to users. 
 
 
 <h1 align="center">
